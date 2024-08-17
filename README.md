@@ -10,3 +10,7 @@ It includes a smart bot that will chase you around the map:
 Make sure to escape, sometimes it can be very hard.
 
 #### This is my second game that I made.
+
+## If you want to play:
+
+Go here https://sprig.hackclub.com/, then copy and paste the code from the JS file
